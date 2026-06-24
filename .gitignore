@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained models and logs
+runs/
+*.pt
+*.pth
+*.log
+
+# Virtual environments
+venv/
+env/
+.pytorch_env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
